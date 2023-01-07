@@ -12,7 +12,7 @@ Our role in the deveopment of this program is to capture user input and pass the
 Option 1:
 
 1. Download as a .zip from https://github.com/web-dev-jackie/password-magico
-2. Open in terminal, code .,
+2. Open in terminal, `code .`,
 3. In VS Code, right click on index.html and open in default browser.
 
 Option 2:
