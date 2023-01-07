@@ -1,8 +1,12 @@
 ![Logo](./assets/images/pwmagico1.png)
 
-The starter code gives two functions; generatePassword() and writePassword() with an event listener and two variables, appending the password to the DOM. 
+The starter code gives us two functions:
+1. generatePassword() 
+2. writePassword() 
 
-Our role in the deveopment of this program is to capture user input so the password has custom parameters such as length and characters. Using a for loop, Math.floor and Math.random to perform this operation.
+The starter code also includes an event listener attached to an HTML element. Two variables are declared, "password" and "passwordText", with JavaScript appending "password" to the DOM. 
+
+Our role in the deveopment of this program is to capture user input and pass the password variable through the function. We use a for loop, Math.floor and Math.random to perform this operation.
 
 ## Installation
 Option 1:
