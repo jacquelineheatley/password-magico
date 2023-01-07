@@ -1,10 +1,8 @@
-# README for Module 3
-*This is a simple password generator.*
-![Logo](./assets/images/password-magico.png)
+![Logo](./assets/images/pwmagico1.png)
 
-The starter code gives two functions; generatePassword() and writePassword() with an event listener, two variables (`password` and `passwordText`), and finally appends the value of the object to the DOM. 
+The starter code gives two functions; generatePassword() and writePassword() with an event listener and two variables, appending the password to the DOM. 
 
-Our role in the deveopment of this program is to capture user input so that the password has custom length and parameters. We use a for loop, Math.floor and Math.random to perform this operation. 
+Our role in the deveopment of this program is to capture user input so the password has custom parameters such as length and characters. Using a for loop, Math.floor and Math.random to perform this operation.
 
 
 # Homework 3 notes 
