@@ -66,7 +66,7 @@ For the fucntino to run, it needs to be declared and called. It won't execute un
 
 # if, else
 Check to see if they meet the condition: 
-![Equal?](./images/check.png)
+![Equal](./assets/images/check.png)
 
 
 # Scoping
