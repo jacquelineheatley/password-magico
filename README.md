@@ -1,4 +1,12 @@
-# Homework 3
+# README for Module 3
+*This is a simple password generator.*
+
+The starter code gives two functions; generatePassword() and writePassword() with an event listener, two variables (`password` and `passwordText`), and finally appends the value of the object to the DOM. 
+
+Our role in the deveopment of this program is to capture user input so that the password has custom length and parameters. We use a for loop, Math.floor and Math.random to perform this operation. 
+
+
+# Homework 3 notes 
 
     1.	Always start at ReadME and put it into manageable chunks
     2.	Use prompt, confirm and alert
@@ -17,7 +25,7 @@
     15.	generatePassword() function goes above writePassword() function
 
 
-# week-3-javascript
+# Zoom
 
 Using keyword VAR, declare variable and assign value to variable using assignment operator ("=") which stores a single value in a variable. 
 
