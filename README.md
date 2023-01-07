@@ -4,6 +4,16 @@ The starter code gives two functions; generatePassword() and writePassword() wit
 
 Our role in the deveopment of this program is to capture user input so the password has custom parameters such as length and characters. Using a for loop, Math.floor and Math.random to perform this operation.
 
+## Installation
+Option 1:
+
+1. Download as a .zip from https://github.com/web-dev-jackie/password-magico
+2. Open in terminal, code .,
+3. In VS Code, right click on index.html and open in default browser.
+
+Option 2:
+
+GitHub Pages link: https://web-dev-jackie.github.io/password-magico/
 
 # Homework 3 notes 
 
