@@ -1,5 +1,6 @@
 # README for Module 3
 *This is a simple password generator.*
+![Logo](./assets/images/password-magico.png)
 
 The starter code gives two functions; generatePassword() and writePassword() with an event listener, two variables (`password` and `passwordText`), and finally appends the value of the object to the DOM. 
 
